@@ -7,6 +7,8 @@
 <title>Git수업</title>
 </head>
 <body>
-
+	<fieldset>
+		<legend>Git수업</legend>
+	</fieldset>
 </body>
 </html>
